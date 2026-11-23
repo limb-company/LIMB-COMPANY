@@ -1,16 +1,47 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**limb-company/LIMB-COMPANY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ——— LIMB COMPANY™ ———
+### `// LOCATE. INTERCEPT. MASK. BYPASS.`
 
-Here are some ideas to get you started:
+`[ STATUS: ACTIVE_DEVELOPMENT ]` • `[ STANDARD: REV.01.00 ]` • `[ PROTOCOLS: 3_ACTIVE ]`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+**LIMB COMPANY™** — технологическая компания, специализирующаяся на разработке тактического программного обеспечения, систем радиочастотного и Bluetooth-мониторинга, аппаратных интерфейсов управления и автономных протоколов связи.
+
+Мы проектируем закрытые программные комплексы для анализа локальной цифровой среды, прямого взаимодействия с оборудованием и обеспечения бесперебойной связи в условиях нестабильной или полностью отсутствующей сетевой инфраструктуры.
+
+---
+
+## ⚙️ Матрица разработок (`REV.01.xx`)
+
+| Код | Проект | Назначение и архитектура | Статус |
+| :--- | :--- | :--- | :--- |
+| **`[LIMB-01]`** | **`cyberdeck_os`** | Мобильный тактический терминал со встроенным ПК-агентом (`cyberdeck_bridge`) для анализа Wi-Fi/BLE-эфира, пеленгации, ИК-управления и прямого аппаратного доступа. | `IN DEVELOPMENT // REV.01.00` |
+| **`[LIMB-02]`** | **`DEADLINK`** | Гибридный (полу-оффлайн) мессенджер с гибкой маршрутизацией: классические звонки через SIM/сеть и автономный P2P-режим (BLE Mesh + Wi-Fi Direct) без серверов. | `DESIGN PHASE` |
+| **`[LIMB-03]`** | **`LIMB_LOCK`** | Автономный интерактивный симулятор блокировки и карантина рабочей станции для Windows с обратным отсчётом до перехода в режим сна и разблокировкой по ключу. | `IN DEVELOPMENT // PC UTILITY` |
+
+---
+
+## 📡 Системная сводка
+
+* **Организация:** `LIMB COMPANY™`
+* **Вектор:** `RF/BLE Reconnaissance • Hardware HID Control • Hybrid P2P Comms`
+* **Стандарт версионирования:** `REV.01.00`
+* **Официальный портал:** *(в процессе развёртывания)*
+
+---
+
+<div align="center">
+
+| `[ LIMB_OPTIC // NODE_01 ]` |
+| :---: |
+| **`═══════[ ◈ ─── ( ◉ ) ─── ◈ ]═══════`** |
+| **`LIMB COMPANY™ // LOCATE. INTERCEPT. MASK. BYPASS.`** |
+
+</div>
+
+
+
